@@ -1,0 +1,24 @@
+*{
+	margin:  0;
+	padding:  0;
+}
+
+/*
+#relative {
+	position:  relative;
+	top: 200px;
+	background-color: red;
+}
+
+*/
+
+div {
+	background:  red;
+	position:  relative;
+}
+
+p {
+	position:  relative;
+	height:  auto;
+	top:  200%;
+}
